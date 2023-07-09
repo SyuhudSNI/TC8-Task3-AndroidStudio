@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Recycler View App</string>
+    <string name="data_user">Data User</string>
+</resources>
